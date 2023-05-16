@@ -277,6 +277,7 @@
 }
 .container00.container08 {
   background-image: url(../../images/humanFlight/01.jpg);
+  background-size: auto;
 }
 .container00.container10 {
   background-image: url(../../images/humanFlight/02.jpg);
